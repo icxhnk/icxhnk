@@ -1,4 +1,4 @@
-# Miftahul Ikhsan Tahir
+# Ikhsan Tahir
 
 **AI Engineer & AI-Native Product Builder** · Jakarta, Indonesia  
 Applied Computer Vision (`PyTorch` / `YOLO11` / `ONNX`) · Full-Stack & Desktop Delivery (`Python` / `FastAPI` / `TypeScript` / `React` / `Tauri`) · Multi-Agent Coding Workflows (`Claude Code`, `Codex`, `Cursor`)
