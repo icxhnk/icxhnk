@@ -36,7 +36,7 @@ That background shapes how I ship software with AI coding agents: **spec-first P
 | **[GuruExcel](https://guruexcel.icxhnk.com)** | Live | Interactive Indonesian spreadsheet learning platform (44 modules, progress tracking & printable PDF summaries) | Web Frontend, JavaScript, Interactive Grid Engine |
 | **DockLedger** | Prototype | Maritime hull/repair inspection & repair-control workspace with HEIC/PDF evidence and drawing-revision tracking | Node.js, Sharp, PDFKit, HEIC/PDF Pipeline |
 
-*(Commercial product repositories are kept private; live demos above are publicly accessible and private contributions are enabled on my contribution graph.)*
+*(Commercial product repositories are kept private; live demos above are publicly accessible.)*
 
 ---
 
